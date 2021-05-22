@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Real Estate</string>
+    <string name="licence">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxkq3ZRbgF5jt7pffgigUoOOhqCH2BmVCCMsRVhd9YQ4ARC/CEtmXLNx8px211tfmZzS90/a9AkO3GPBUI4vwkY8oZopHw5Jx0bV4V8DyrfJ/yxIZIh6jfoanPpe/jkko0ndlTFqRrI3ay11/LT04JoRXaqG1bFnp5Y2PvNhvqiSxVddISFsg9JW9BXSCcbW6DZuRPPlGaPhia4d3Tf1eGy2SupXWXAg8IUlvRM2ne8GcH+hD3irs8VzILnlQg2uRgsKK7pOvZIMyDNh45GQ6le7Or03J0zmZ6JxdXYu3eQd+jSNZkchAcbgRw7/rGFnDc9xL4hqy8Ju/iaCGw8KfPQIDAQAB</string>
+    <string name="premium">recipe_id</string>
+</resources>
